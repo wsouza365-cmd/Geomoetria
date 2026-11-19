@@ -1,0 +1,6 @@
+{
+  "name": "Construtor Geométrico GET",
+  "description": "Laboratório maker interativo de geometria plana e espacial (2D e 3D) com malha quadriculada, empilhamento de camadas, planificação dobrável e modo desafio para o Ensino Fundamental II.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
